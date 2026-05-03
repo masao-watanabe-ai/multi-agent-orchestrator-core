@@ -402,3 +402,7 @@ but are not recognised by the validator and cannot be used in flows:
 | `selector` | Execute child nodes until one succeeds |
 | `aggregate` | Collect results from parallel branches |
 | `wait_event` | Suspend until an arbitrary named event arrives |
+
+## License
+
+MIT License © 2026 Masao Watanabe
